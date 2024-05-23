@@ -8,4 +8,4 @@
 #Carter: Wave Direction, Wind Direction
 #Rui: Sea Surface Temperature
 #Kia: Air Temperature, Presentation Making
-#Goal: Comparing the 3 sites in Cheseapeake Bay at different points in the bay during a dry year-low flow [2016] and a wet year-high flow [2018]
+#Goal: Comparing the 3 sites in Cheseapeake Bay at different points in the bay during a dry year-low flow [2016] and a wet year-high flow [2018], predict water temperature
