@@ -1,0 +1,24 @@
+#time series
+import matplotlib.pyplot as plt
+import numpy as np
+
+month=
+temp=
+#area 1
+plt.plot(month, temp, '*red')
+plt.xlabel("Month")
+plt.ylabel("Temperature (F)")
+plt.title("Monthly Averaged Temp. in Wilmington, NC")
+#area 2
+plt.plot(month, temp, '*blue')
+plt.xlabel("Month")
+plt.ylabel("Temperature (F)")
+plt.title("Monthly Averaged Temp. in Wilmington, NC")
+#area 3
+plt.plot(month, temp, '*yellow')
+plt.xlabel("Month")
+plt.ylabel("Temperature (F)")
+plt.title("Monthly Averaged Temp. in Wilmington, NC")
+plt.legend()
+plt.show();
+
